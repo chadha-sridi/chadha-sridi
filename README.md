@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NLP, Cryptography**
 
-### Check my latest article on Medium 
+<h3 align="left">Check my latest article on Medium:</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chadhasridi60/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chadhasridi60/0" alt="Recent Article 0"> 
 
 <h3 align="left">Connect with me:</h3>
