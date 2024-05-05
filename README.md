@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[![My Medium story](@codescaptain&index=0)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@chadhasridi60&index=0&source=medium)](#)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
