@@ -11,9 +11,8 @@
 
 - 💬 Ask me about **NLP, Cryptography**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START --> 
-<!-- BLOG-POST-LIST:END -->
+### Check my latest article on Medium 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chadhasridi60/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chadhasridi60/0" alt="Recent Article 0"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
