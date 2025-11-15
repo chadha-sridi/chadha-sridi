@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadha-sridi&label=Profile%20views&color=0e75b6&style=flat" alt="chadha-sridi" /> </p>
 
-- 🔭 I’m currently working on **training cyber blue agents to defend a network using Reinforcement Learning**
+- 🔭 I’m currently working on **building a RAG-based AI assistant designed to help users ingest their favourite documents, chat about them and take notes.**
 
-- 🌱 I’m currently learning **Cyber security, Deep reinforcement learning.**
+- 🌱 I’m currently learning **MCP, MLOps for generative AI.**
 
-- 💬 Ask me about **NLP, Cryptography**
+- 💬 Ask me about **NLP, RAG ...**
 
 <h3 align="left">Check my latest article on Medium:</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@chadhasridi60/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@chadhasridi60/0" alt="Recent Article 0"> 
