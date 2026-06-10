@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello, I'm Chadha Sridi👋</h1>
-<h3 align="center">I'm an AI and cyber security enthusiast, currently pursuing a double engineering degree in Mathematical and Computational Engineering and Cyber Security. With an unwavering commitment to continual growth and learning, I am dedicated to exploring the depths of AI's potential in fortifying digital ecosystems.</h3>
+<h3 align="center"></h3>
 
 <img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
